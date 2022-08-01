@@ -1,0 +1,24 @@
+.DS_Store
+node_modules
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+components.d.ts*
+
+# history files
+.history
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.zip
+*.ntvs*
+*.njsproj
+*.sln
+
+
+#sonar file
+.scannerwork
